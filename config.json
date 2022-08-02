@@ -1,0 +1,4 @@
+{
+    "connection_string": "rootgo:1234@tcp(127.0.0.1:3306)/productsih",
+    "port": 8090
+}
